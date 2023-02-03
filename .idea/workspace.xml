@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d0f2fd0-7e6a-4ade-9655-74fe077c19c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/maven" beforeDir="false" afterPath="$PROJECT_DIR$/maven" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/DeclarativePipeline1" beforeDir="false" afterPath="$PROJECT_DIR$/maven/DeclarativePipeline1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/DeclarativePipeline2" beforeDir="false" afterPath="$PROJECT_DIR$/maven/DeclarativePipeline2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/DeclarativePipeline3" beforeDir="false" afterPath="$PROJECT_DIR$/maven/DeclarativePipeline3" afterDir="false" />
@@ -23,11 +24,9 @@
       <change beforePath="$PROJECT_DIR$/maven/server/src/main/java/com/example/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/maven/server/src/main/java/com/example/Greeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/server/src/site/apt/index.apt" beforeDir="false" afterPath="$PROJECT_DIR$/maven/server/src/site/apt/index.apt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/server/src/test/java/com/example/TestGreeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/maven/server/src/test/java/com/example/TestGreeter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maven/webapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maven/webapp/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/webapp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/maven/webapp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/webapp/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/maven/webapp/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maven/webapp/src/main/webapp/index1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/maven/webapp/src/main/webapp/index1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maven/webapp/src/site/apt/index.apt" beforeDir="false" afterPath="$PROJECT_DIR$/maven/webapp/src/site/apt/index.apt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/suryakalyan/Desktop/CI-CD/CI-CD-deployment&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/suryakalyan/Desktop/CI-CD/CI-CD-deployment/Maven"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,5 +61,28 @@
       <updated>1675331161373</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/PR-CI-CD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
